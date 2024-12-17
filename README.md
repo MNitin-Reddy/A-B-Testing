@@ -1,4 +1,4 @@
-# A/B Testing and Regression Analysis -  Ad Campaign Performance Analysis 📊
+# A/B Testing and Regression Analysis for Ad Performance Optimization 📊
 
 ## Business Problem
 As a marketing agency, our objective is to **maximize the return on investment (ROI)** for our clients' advertising campaigns. We conducted two ad campaigns:
